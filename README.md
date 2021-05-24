@@ -1,7 +1,7 @@
 # SpatialOrientationVR_SpatialCog
 This repository contains the data and analysis scripts for the two perceptual experiments reported in 
 
-Assessing effects of reduced vision on spatial orientation ability using Virtual Reality. M.Kinateder & E.A. Cooper, Conference Proceedings of Spatial Cognition, 2021.
+*Assessing effects of reduced vision on spatial orientation ability using Virtual Reality.* M.Kinateder & E.A. Cooper, Conference Proceedings of Spatial Cognition, 2021.
 
 # Data files
 Data are saved in the Data directory and organized in tables with headers that can be read into R or similar tools for Experiment 1 and Experiment 2.
