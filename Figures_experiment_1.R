@@ -1,9 +1,12 @@
 # reads data and plots figure 5, 6 and 7 of Kinateder & Cooper "Assessing effects of reduced vision on spatial orientation ability using Virtual Reality"
 
 # load libraries for plotting
-library(groundhog)
-groundhog.library('tidyverse', '2021-05-19')
-groundhog.library('gridExtra', '2021-05-19') # to use grid.arrange()
+# Note: This code was written on 2021-05-19; in case, libraries are not loading properly use the groundhog package to load the library versions from that time.
+#library(groundhog)
+#groundhog.library('tidyverse', '2021-05-19')
+#groundhog.library('gridExtra', '2021-05-19') # to use grid.arrange()
+library(tidyverse)
+library(gridExtra) # to use grid.arrange()
 
 # clear work space and close all plots
 rm(list = ls())
